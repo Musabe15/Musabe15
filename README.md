@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Musabe Yvan
 
-💡 **Food Processing Background | Front-End Developer in Progress**
+💡 **<h3 align="center">Food Processing Background | Front-End Developer in Progress</h3>**
 
 I'm a passionate front-end developer with a professional background in food processing. Growing up in a community where traditional methods are still widely used, I was inspired to start coding to build tools that modernize these industries and support the growth of small businesses and education in rural areas.
 
